@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,trae
+  - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-KEYWORD,codebuddy
   - DOMAIN-SUFFIX,codebuddy.ai
   - DOMAIN-SUFFIX,viking-links.tech
