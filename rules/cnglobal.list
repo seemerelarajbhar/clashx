@@ -1,13 +1,9 @@
-# 内容：cnglobal
-# 数量：11条
-DOMAIN-KEYWORD,trae
-DOMAIN-KEYWORD,codebuddy
-DOMAIN,codebuddy.ai
-DOMAIN-KEYWORD,viking-links
-DOMAIN-SUFFIX,trae.ai
-DOMAIN-SUFFIX,api.trae.ai
-DOMAIN,trae.ai
-DOMAIN-KEYWORD,trae-api
-DOMAIN-SUFFIX,viking-links.tech
-DOMAIN-SUFFIX,mchost.guru
-DOMAIN,apple-bing.sbs
+payload:
+  - DOMAIN-KEYWORD,trae
+  - DOMAIN-KEYWORD,codebuddy
+  - DOMAIN-SUFFIX,codebuddy.ai
+  - DOMAIN-SUFFIX,viking-links.tech
+  - DOMAIN-SUFFIX,api.trae.ai
+  - OMAIN-SUFFIX,viking-links.tech
+  - DOMAIN,apple-bing.sbs
+  - DOMAIN-SUFFIX,mchost.guru
