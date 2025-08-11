@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,stockanalysis.com
   - DOMAIN,stockcharts.com
   - DOMAIN-SUFFIX,tradingview
+  - DOMAIN-SUFFIX,pse.com.ph
