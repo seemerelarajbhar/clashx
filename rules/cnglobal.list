@@ -8,3 +8,4 @@ payload:
   - DOMAIN,apple-bing.sbs
   - DOMAIN-SUFFIX,mchost.guru
   - DOMAIN-SUFFIX,linkeless.com
+  - DOMAIN-SUFFIX,z.ai
