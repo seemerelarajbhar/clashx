@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN,warpianwzlfqdq.dataplane.rudderstack.com
   - DOMAIN-SUFFIX,warp.dev
+  - DOMAIN-KEYWORD,roocode.com
