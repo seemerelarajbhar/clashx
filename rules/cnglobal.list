@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,linkeless.com
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,chat.qwen.ai
+  - DOMAIN-SUFFIX,picscdn.346234.xyz
