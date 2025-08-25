@@ -14,3 +14,4 @@ payload:
   - DOMAIN,qoder.com
   - DOMAIN-KEYWORD,qoder
   - DOMAIN,byteplus.com
+  - DOMAIN-SUFFIX,byteplus.com
