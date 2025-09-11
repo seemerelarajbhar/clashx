@@ -4,3 +4,6 @@ payload:
   - DOMAIN,warpianwzlfqdq.dataplane.rudderstack.com
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-KEYWORD,roocode.com
+  - DOMAIN,ciciaicdn.com
+  - DOMAIN,ciciai.com
+  - DOMAIN-KEYWORD,cici
