@@ -18,8 +18,8 @@ payload:
   - DOMAIN-SUFFIX,bytepluscdn.com
   - DOMAIN-SUFFIX,byteintl.com
   - DOMAIN-SUFFIX,sg.byteoversea.com
-  - DOMAIN,ciciaicdn.com
-  - DOMAIN,ciciai.com
+  - DOMAIN-SUFFIX,ciciaicdn.com
+  - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-KEYWORD,cici
   - DOMAIN-KEYWORD,codegeex
   - DOMAIN-KEYWORD,marscode
