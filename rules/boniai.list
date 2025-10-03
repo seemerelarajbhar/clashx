@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,warp.dev
   - DOMAIN-KEYWORD,roocode.com
   - DOMAIN-SUFFIX,copilot.com
+  - DOMAIN,factory.ai
