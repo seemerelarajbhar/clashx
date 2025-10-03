@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN,firstmetrosec.com.ph
-  - DOMAIN,technistock.net
-  - DOMAIN,pse.com.ph
+  - DOMAIN-SUFFIX,firstmetrosec.com.ph
+  - DOMAIN-SUFFIX,technistock.net
+  - DOMAIN-SUFFIX,pse.com.ph
