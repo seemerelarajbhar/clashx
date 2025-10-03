@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-SUFFIX,chat.qwen.ai
   - DOMAIN-SUFFIX,picscdn.346234.xyz
-  - DOMAIN,qoder.com
+  - DOMAIN-SUFFIX,qoder.com
   - DOMAIN-KEYWORD,qoder
   - DOMAIN,byteplus.com
   - DOMAIN-SUFFIX,byteplus.com
