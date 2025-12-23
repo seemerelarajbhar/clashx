@@ -5,7 +5,8 @@
 ;ruleset=✨ Claude,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list
 ruleset=✨ AI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI.list
 ruleset=Cnglobal,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/cnglobal.list
-ruleset=Stocks,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/stocks.list
+ruleset=Cnglobal,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/stocks.list
+ruleset=Foreign,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/Yahoo.list
 ruleset=✨ AI,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/boniai.list
 ruleset=✨ Meta AI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list
 ruleset=✨ Perplexity,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Perplexity.list
