@@ -23,3 +23,6 @@ payload:
   - DOMAIN-KEYWORD,cici
   - DOMAIN-KEYWORD,codegeex
   - DOMAIN-KEYWORD,marscode
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN,yahoo.com
+  - DOMAIN-SUFFIX,finance.yahoo.com
