@@ -78,7 +78,7 @@ custom_proxy_group=➡️ Domestic`select`[]DIRECT`[]All-Manual`[]All-Automatic`
 ;3、Node Group
 custom_proxy_group=All-Manual`select`.*
 custom_proxy_group=All-Automatic`url-test`.*`http://www.gstatic.com/generate_204`180,5,100
-custom_proxy_group=Stocks`load-balance`(广港|香港|HK|Hong Kong|🇭🇰|HongKong|广台|台湾|台灣|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan|Taiwan|广日|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`10`round-robin
+custom_proxy_group=Stocks`load-balance`(广港|香港|HK|Hong Kong|🇭🇰|HongKong|广台|台湾|台灣|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan|Taiwan|广日|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`10,5,5000`round-robin`
 custom_proxy_group=Hong Kong/Taiwan/Japan/Singapore/Korea-Automatic`url-test`(广港|广台|广日|广新|广韩|广美|香港|HK|Hong Kong|🇭🇰|HongKong|台湾|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan|Taiwan|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|新加坡|SG|坡|狮城|🇸🇬|Singapore|韩国|KR|首尔|春川|🇰🇷|Korea)`http://www.gstatic.com/generate_204`180,5,100
 custom_proxy_group=Taiwan/Japan/Singapore/Korea-Automatic`url-test`(广台|广日|广新|广韩|广美|台湾|TW|Tai Wan|Taiwan|🇹🇼|🇨🇳|TaiWan|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|新加坡|SG|坡|狮城|🇸🇬|Singapore|韩国|KR|首尔|春川|🇰🇷|Korea)`http://www.gstatic.com/generate_204`180,5,100
 custom_proxy_group=Hong Kong-Automatic`url-test`(广港|香港|HK|Hong Kong|🇭🇰|HongKong)`http://www.gstatic.com/generate_204`180,5,100
