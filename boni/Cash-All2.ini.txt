@@ -1,83 +1,83 @@
-;1、Rule Providers (域名组)
-;ruleset=✨ ChatGPT,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/ChatGPT.list
-;ruleset=✨ Copilot,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Copilot/Copilot.list
-;ruleset=✨ Gemini,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Gemini/Gemini.list
-;ruleset=✨ Claude,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list
-ruleset=✨ AI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI.list
+;1、域名组
+;ruleset=ChatGPT,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/ChatGPT.list
+;ruleset=Copilot,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Copilot/Copilot.list
+;ruleset=Gemini,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Gemini/Gemini.list
+;ruleset=Claude,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list
+ruleset=AI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI.list
 ruleset=Cnglobal,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/cnglobal.list
-;Fixed: Pointed stocks list to the actual Stocks group you created
-ruleset=Stocks,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/stocks.list
-;Fixed: Changed group name to match the emoji version defined below
-ruleset=🌍 Foreign,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/Yahoo.list
-ruleset=✨ AI,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/boniai.list
-ruleset=✨ Meta AI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list
-ruleset=✨ Perplexity,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Perplexity.list
-ruleset=📘 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
-ruleset=🪂 TikTok,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/TikTok/TikTok.list
-ruleset=🙋 Telegram,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
-ruleset=🕊️ Twitter(X),https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
-ruleset=💁 WhatsApp,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Whatsapp/Whatsapp.list
-ruleset=🗣️ Facebook,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Facebook/Facebook.list
-ruleset=🌳 Amazon,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Amazon/Amazon.list
-ruleset=🍎 Apple,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
-ruleset=Ⓜ️ Microsoft,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
-ruleset=🔍 Google,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Google/Google.list
-ruleset=🎮 Steam,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
-ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
-ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
-ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
-ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list
-ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list
-ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list
-ruleset=🎞️ YouTube,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/YouTube.list
-ruleset=🎞️ YouTube,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
-ruleset=📺 Disney,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
-ruleset=🎥 Netflix,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
-ruleset=🎬 HBO,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
-ruleset=🎵 Spotify,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
-ruleset=👌 Cryptocurrency,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
-ruleset=👌 Cryptocurrency,https://raw.githubusercontent.com/v2fly/domain-list-community/refs/heads/master/data/bybit
-ruleset=👌 Cryptocurrency,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/xnb.list
-ruleset=⏱️ Detection,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list
-ruleset=🌍 Foreign,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
-ruleset=🌍 Foreign,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt,domain
-ruleset=➡️ Domestic,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt,domain
-ruleset=➡️ Domestic,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt,domain
-ruleset=➡️ Domestic,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt,domain
-ruleset=➡️ Domestic,[]FINAL
+ruleset=Cnglobal,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/stocks.list
+ruleset=Foreign,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/Yahoo.list
+ruleset=AI,https://raw.githubusercontent.com/seemerelarajbhar/clashx/refs/heads/main/rules/boniai.list
+ruleset=Meta AI,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/MetaAi.list
+ruleset=Perplexity,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Perplexity.list
+ruleset=GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
+ruleset=TikTok,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/TikTok/TikTok.list
+ruleset=Telegram,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
+ruleset=Twitter(X),https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list
+ruleset=WhatsApp,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Whatsapp/Whatsapp.list
+ruleset=Facebook,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Facebook/Facebook.list
+ruleset=Amazon,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Amazon/Amazon.list
+ruleset=Apple,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
+ruleset=Microsoft,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
+ruleset=Google,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Google/Google.list
+ruleset=Steam,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
+ruleset=Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
+ruleset=Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list
+ruleset=Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Blizzard/Blizzard.list
+ruleset=Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list
+ruleset=Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list
+ruleset=Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list
+ruleset=YouTube,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/YouTube.list
+ruleset=YouTube,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
+ruleset=Disney,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
+ruleset=Netflix,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
+ruleset=HBO,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
+ruleset=Spotify,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
+ruleset=Cryptocurrency,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OKX/OKX.list
+ruleset=Cryptocurrency,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/xnb.list
+ruleset=Detection,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list
+ruleset=Foreign,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
+ruleset=Foreign,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
+ruleset=Domestic,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt
+ruleset=Domestic,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
+ruleset=Foreign,https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt
+ruleset=Foreign,[]FINAL
 
-;2、Proxy Group (Strategies)
-;Fixed: Removed "[]" from all group references to match the definitions in Section 3
-custom_proxy_group=✨ AI`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=Cnglobal`select`Singapore-Automatic`Singapore-Manual`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=✨ Meta AI`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=✨ Perplexity`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=📘 GitHub`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🪂 TikTok`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🙋 Telegram`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🕊️ Twitter(X)`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=💁 WhatsApp`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🗣️ Facebook`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🌳 Amazon`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🍎 Apple`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=Ⓜ️ Microsoft`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🔍 Google`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🎮 Steam`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🕹️ Game`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🎞️ YouTube`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=📺 Disney`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🎥 Netflix`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🎬 HBO`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🎵 Spotify`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=👌 Cryptocurrency`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=⏱️ Detection`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=🌍 Foreign`select`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
-custom_proxy_group=➡️ Domestic`select`DIRECT`All-Manual`All-Automatic`Hong Kong-Automatic`Hong Kong-Manual`Taiwan-Automatic`Taiwan-Manual`Japan-Automatic`Japan-Manual`Singapore-Automatic`Singapore-Manual`Korea-Automatic`USA-Automatic`USA-Manual`Others-Automatic`Others-Manual`REJECT
+;2、Domain Group
+;custom_proxy_group=ChatGPT`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[]Taiwan-Automatic`[]Japan-Automatic`[]Singapore-Automatic`[]Korea-Automatic`[]USA-Automatic`[]Others-Automatic`[]REJECT
+;custom_proxy_group=Copilot`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[]Taiwan-Automatic`[]Japan-Automatic`[]Singapore-Automatic`[]Korea-Automatic`[]USA-Automatic`[]Others-Automatic`[]REJECT
+;custom_proxy_group=Gemini`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[]Taiwan-Automatic`[]Japan-Automatic`[]Singapore-Automatic`[]Korea-Automatic`[]USA-Automatic`[]Others-Automatic`[]REJECT
+;custom_proxy_group=Claude`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[]Taiwan-Automatic`[]Japan-Automatic`[]Singapore-Automatic`[]Korea-Automatic`[]USA-Automatic`[]Others-Automatic`[]REJECT
+custom_proxy_group=AI`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[]Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Cnglobal`select`[]Singapore-Automatic`[]Singapore-Manual`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[]Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Meta AI`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[]Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Perplexity`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=GitHub`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=TikTok`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Telegram`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Twitter(X)`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=WhatsApp`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Facebook`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Amazon`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Apple`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Microsoft`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Google`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Steam`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Game`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=YouTube`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Disney`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Netflix`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=HBO`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Spotify`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Cryptocurrency`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Detection`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Foreign`select`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
+custom_proxy_group=Domestic`select`[]DIRECT`[]All-Manual`[]All-Automatic`[]Hong Kong-Automatic`[] Hong Kong-Manual`[]Taiwan-Automatic`[]Taiwan-Manual`[]Japan-Automatic`[]Japan-Manual`[]Singapore-Automatic`[]Singapore-Manual`[]Korea-Automatic`[]USA-Automatic`[]USA-Manual`[]Others-Automatic`[]Others-Manual`[]REJECT
 
-;3、Node Group (Definitions)
+;3、Node Group
 custom_proxy_group=All-Manual`select`.*
 custom_proxy_group=All-Automatic`url-test`.*`http://www.gstatic.com/generate_204`180,5,100
-custom_proxy_group=Stocks`load-balance`(广港|香港|HK|Hong Kong|🇭🇰|HongKong|广台|台湾|台灣|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan|Taiwan|广日|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`10,5,5000`round-robin`
+custom_proxy_group=Stocks`load-balance`(广港|香港|HK|Hong Kong|🇭🇰|HongKong|广台|台湾|台灣|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan|Taiwan|广日|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|广新|新加坡|SG|坡|狮城|🇸🇬|Singapore)`http://www.gstatic.com/generate_204`10`round-robin
 custom_proxy_group=Hong Kong/Taiwan/Japan/Singapore/Korea-Automatic`url-test`(广港|广台|广日|广新|广韩|广美|香港|HK|Hong Kong|🇭🇰|HongKong|台湾|TW|Tai Wan|🇹🇼|🇨🇳|TaiWan|Taiwan|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|新加坡|SG|坡|狮城|🇸🇬|Singapore|韩国|KR|首尔|春川|🇰🇷|Korea)`http://www.gstatic.com/generate_204`180,5,100
 custom_proxy_group=Taiwan/Japan/Singapore/Korea-Automatic`url-test`(广台|广日|广新|广韩|广美|台湾|TW|Tai Wan|Taiwan|🇹🇼|🇨🇳|TaiWan|日本|JP|川日|东京|大阪|泉日|埼玉|沪日|深日|🇯🇵|Japan|新加坡|SG|坡|狮城|🇸🇬|Singapore|韩国|KR|首尔|春川|🇰🇷|Korea)`http://www.gstatic.com/generate_204`180,5,100
 custom_proxy_group=Hong Kong-Automatic`url-test`(广港|香港|HK|Hong Kong|🇭🇰|HongKong)`http://www.gstatic.com/generate_204`180,5,100
@@ -94,6 +94,7 @@ custom_proxy_group=USA-Manual`select`(广美|美|US|纽约|波特兰|达拉斯|�
 custom_proxy_group=Others-Automatic`url-test`(波|柬|尼|也|克|比|尔|立|冰|秘|耳|利|埃|希|孟|芬|愛|澳|英|德|南|意|法|拿|墨|印|越|俄|瑞|智|荷|比|巴|沙|班|泰|德|烏|以|Australia|Konghwaguk)`http://www.gstatic.com/generate_204`180,5,100
 custom_proxy_group=Others-Manual`select`(波|柬|尼|也|克|比|尔|立|冰|秘|耳|利|埃|希|孟|芬|愛|澳|英|德|南|意|法|拿|墨|印|越|俄|瑞|智|荷|比|巴|沙|班|泰|德|烏|以|Australia|Konghwaguk)
 
-;4、Settings
+
+;4、启用规则集
 enable_rule_generator=true
 overwrite_original_rules=true
