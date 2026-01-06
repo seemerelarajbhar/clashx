@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,factory.ai
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,chutes.ai
+  - DOMAIN-SUFFIX,api.geminitoolbox.com
