@@ -26,3 +26,5 @@ payload:
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN,yahoo.com
   - DOMAIN-SUFFIX,finance.yahoo.com
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,clashofclans.com
